@@ -1,0 +1,8 @@
+{
+  "name": "R Statistical Training & Research Workbench",
+  "description": "Interactive statistical computing platform based on R research training scripts. Features descriptive statistics, inferential hypothesis testing, ANOVA, linear and logistic regression, time series forecasting, and R code execution.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
